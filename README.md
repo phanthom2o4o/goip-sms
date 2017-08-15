@@ -7,6 +7,7 @@ This script is derived from the stackoverflow answer provided by paisapimp, and 
 Dependencies of this script:
 
 At least: php5-cgi php5 php5-curl php5-cli
+
 If you have apache2 installed, this may satisfy some of these dependencies. The php5-cgi dependency may also be satisfied by php5-fpm.
 
 
