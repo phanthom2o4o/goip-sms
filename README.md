@@ -29,4 +29,5 @@ This script will return the html code of the GOIP's webpage, followed by the htt
 Bugs squashed:
 
 php complained about $fields_string being appended without being initialized. Initialized this value to ''
+
 curl_getinfo complained about not having anything to return, CURLINFO_HTTP_CODE was chosen as it seemed the most useful.
